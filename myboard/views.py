@@ -19,3 +19,4 @@ def add_content():
     db.session.commit()
 
     return redirect(url_for('index'))
+# hogehoge
